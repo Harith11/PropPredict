@@ -185,10 +185,6 @@ Running the pipeline requires following a lot of steps as outlined below.
 
 # Additional Notes
 
-### Google Drive
-
-You can find all the datasets in a google drive at this link ['https://drive.google.com/drive/folders/1GIqOVAzaCzuQMXGhnxioaJINnMQO8qPm']. We supply this drive as it can take too long to run the scrapers or as a back up in case any unexpected issues come up when running notebooks in the project pipeline. Please note that this google drive can only be accessed via a unimelb email account.
-
 ### Scrap Work & Notes
 
 Our project contains a lot of scrap workings and notebooks, all of these files are contained in the folder `Scrap_Notebooks_and_Scripts` in `notebooks`. These are not necessary to run the pipeline or to understand the findings of our project but are supplied in the repository for any interested readers.
