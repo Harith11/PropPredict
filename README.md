@@ -2,6 +2,8 @@
 
 ### Group 8
 
+This project was completed as part of academic coursework and is no longer actively maintained.
+
 ## Team members:
 
 - Jayden Thai
@@ -184,8 +186,6 @@ Running the pipeline requires following a lot of steps as outlined below.
 12. Run both `affordabilitiy` and `liveability` in `Livability_and_Affordability` in `notebooks` to retrieve affordability liveability scores of suburbs
 
 # Additional Notes
-
-This project was completed as part of my academic coursework and is no longer actively maintained.
 
 ### Scrap Work & Notes
 
