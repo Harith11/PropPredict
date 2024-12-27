@@ -1,8 +1,8 @@
 # Real Estate Consulting Project
 
-### Group 8
-
 This project was completed as part of academic coursework and is no longer actively maintained.
+
+### Group 8
 
 ## Team members:
 
