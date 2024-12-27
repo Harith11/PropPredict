@@ -185,6 +185,8 @@ Running the pipeline requires following a lot of steps as outlined below.
 
 # Additional Notes
 
+This project was completed as part of my academic coursework and is no longer actively maintained.
+
 ### Scrap Work & Notes
 
 Our project contains a lot of scrap workings and notebooks, all of these files are contained in the folder `Scrap_Notebooks_and_Scripts` in `notebooks`. These are not necessary to run the pipeline or to understand the findings of our project but are supplied in the repository for any interested readers.
